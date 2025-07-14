@@ -1,0 +1,4 @@
+### SIMPLE FRAUD DETECTOR, TECH STACK USE
+
+1. Golang
+2. Apache Kafka
